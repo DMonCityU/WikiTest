@@ -17,7 +17,7 @@ At terminators to specialized knowledge, for example technical details of a spec
   1. If the supplied definition does not address the context which motivated the prompt, ask followup questions in a way that encourages ChatGPT to affirm or deny.
   1. Link relevant vocabulary as in Link Pages. Mentions in followup questions should be those linked.
 
-    </details>
+</details>
 
   <details class="markdown" id="2" markdown="2">
   <summary>Link Pages</summary>
@@ -26,7 +26,7 @@ At terminators to specialized knowledge, for example technical details of a spec
   1.  URLs should be stemmed, special characters replaced, and acronyms placed at the end
   1.  See Crawling for resolving dead links.
 
-    </details>
+</details>
 
   <details class="markdown" id="2" markdown="2">
   <summary>Crawling </summary>
@@ -35,4 +35,4 @@ At terminators to specialized knowledge, for example technical details of a spec
   1.  Unlinked Vocabulary Detection
   1.  Ethos Network
 
-    </details>
+</details>
