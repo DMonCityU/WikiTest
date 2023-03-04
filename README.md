@@ -2,6 +2,8 @@
 
 ---
 
+https://github.com/DMonCityU/WikiTest/wiki
+
 This is an ongoing, interest-driven project meant to define and, more importantly, tie together relevant concepts in cybersecurity.
 Over time, the goal is to robustly and consistently link vocabulary with its underlying history and context.
 At terminators to specialized knowledge, for example technical details of a specific algorithm, further reading will be provided.
