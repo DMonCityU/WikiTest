@@ -7,8 +7,8 @@ https://github.com/DMonCityU/WikiTest/wiki
 This is an ongoing, interest-driven project meant to define and, more importantly, tie together relevant concepts in cybersecurity.
 Over time, the goal is to robustly and consistently link vocabulary with its underlying history and context.
 At terminators to specialized knowledge, for example technical details of a specific algorithm, further reading will be provided.
-    - The scope of this project is general knowledge.
-    - The further reading serves as both a referral to source and as the foundation of an ethos network.
+1. The scope of this project is general knowledge.
+1. The further reading serves as both a referral to source and as the foundation of an ethos network.
 
 ## Functions
 
