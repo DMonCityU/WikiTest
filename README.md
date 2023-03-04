@@ -1,17 +1,28 @@
-# Cybersecurity Club
+# ChatGPT-Driven Wiki Project
 
 ---
 
-Feel free to clone this repo. 
+This is an ongoing, interest-driven project meant to define and, more importantly, tie together relevant concepts in cybersecurity.
 
-## Best Practices
+## Functions
 
   <details class="markdown" id="1" markdown="1">
-  <summary>List of the links to best practices for Adding to this repo</summary>
+  <summary>Define Terms</summary>
   
-  1.  How to add issues
+  1.  
   1.  Updating the project board
   1.  Pull Requests
   1.  How to Style Code
 
-  </details>
+    </details>
+
+  <details class="markdown" id="1" markdown="1">
+  <summary>Link Pages</summary>
+  
+  1.  
+  1.  Updating the project board
+  1.  Pull Requests
+  1.  How to Style Code
+
+    </details>
+
